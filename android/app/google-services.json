@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601984325673",
+    "project_id": "crud-eabba",
+    "storage_bucket": "crud-eabba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601984325673:android:c4ef687d28c3f8260de438",
+        "android_client_info": {
+          "package_name": "com.exa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALz90N_mwRluT7iftTO832cK-5W_Flzd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
